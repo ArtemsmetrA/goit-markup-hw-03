@@ -42,6 +42,8 @@ img {
 
 .header-container {
     display: flex;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-nav {
@@ -210,6 +212,7 @@ img {
 
 .team {
     background-color: #f4f4fd;
+    padding-top: 120px;
     padding-bottom: 120px;
 }
 
@@ -255,6 +258,7 @@ img {
 .portfolio {
     padding-top: 120px;
     padding-bottom: 120px;
+    margin-bottom: 72px;
 }
 
 .portfolio-title {
